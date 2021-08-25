@@ -1,5 +1,5 @@
 
-##Install Java 16 and Spigot Minecraft server 1.17 on a Raspberry Pi
+## Install Java 16 and Spigot Minecraft server 1.17 on a Raspberry Pi
 <br>
 
 **UPDATE APT INDEX**
