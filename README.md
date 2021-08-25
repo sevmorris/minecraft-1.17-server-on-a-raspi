@@ -1,7 +1,7 @@
 
 ## Install Java 16 and Spigot Minecraft server 1.17 on a Raspberry Pi
 This is a quick and somewhat dirty writeup to document the steps I was able to do (and repeat) to get a Spigot v1.17 server running on a RasPi.
-I plan to prettify it a bit later, but it's otherwise complete.
+I plan to prettify it a bit later, but it's otherwise complete. I'm relatively new to Linux, so change as you see fit if it makes sense.
 <br><br>
 
 **UPDATE APT INDEX**
