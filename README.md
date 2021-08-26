@@ -138,6 +138,8 @@ java -jar -Xms1008M -Xmx2048M spigot-1.17.1.jar nogui
 **CREATE A SERVER SCRIPT AND RUN IT AUTOMATICALLY AT BOOT**
 <br><br>
 
+Stop the server by typing "stop" into the server console.
+<br> 
 Create a new file.
 
 ```
