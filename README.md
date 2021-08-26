@@ -109,7 +109,7 @@ java -jar BuildTools.jar
 <br>
 
 In order to be able to start the Minecraft server, you must first accept the license terms. To do this, execute the command `echo "eula = true" > eula.txt`. This creates a new file which indicates that you accepted these license terms.
-<br>
+<br><br>
 
 Get the name/version number of the server file.
 
