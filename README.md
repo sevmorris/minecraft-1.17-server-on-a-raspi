@@ -80,6 +80,13 @@ source ~/.bashrc
 **DOWNLOAD AND BUILD THE MINECRAFT SERVER**
 <br><br>
 
+Go ~/:
+
+```
+~
+```
+<br>
+
 Make a directory for the server and go to that folder.
 
 ```
