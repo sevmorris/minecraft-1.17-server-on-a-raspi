@@ -139,7 +139,8 @@ java -jar -Xms1008M -Xmx2048M spigot-1.17.1.jar nogui
 <br><br>
 
 Stop the server by typing "stop" into the server console.
-<br> 
+<br><br>
+
 Create a new file.
 
 ```
