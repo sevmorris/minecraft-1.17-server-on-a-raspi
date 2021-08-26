@@ -109,7 +109,7 @@ java -jar BuildTools.jar
 <br>
 
 This can take awhile.
-<br>
+<br><br>
 
 In order to be able to start the Minecraft server, you must first accept the license terms. To do this, execute this command:
 
