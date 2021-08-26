@@ -115,29 +115,9 @@ ls spigot*.jar
 ```
 <br>
 
-Start the server for the first time. Files will be created and **the server will fail to start the first time**.
+In order to be able to start the Minecraft server, you must first accept the license terms. To do this, execute the command `echo "eula = true" > eula.txt`. This creates a new file which indicates that you accepted these license terms.
 
 Make sure the server name/version is current as found in the previous step.
-
-```
-java -jar -Xms1008M -Xmx2048M spigot-1.17.1.jar nogui
-```
-<br>
-
-The server will fail the first time with the following message:
-
-`You need to agree to the EULA in order to run the server. Go to eula.txt for more info.`
-<br><br>
-
-Edit the eula file:
-
-```
-nano eula.txt
-```
-Change "eula=false" to "eula=true".
-<br><br>
-
-Start the server again. This will populate the folder with files required to run the server.
 
 ```
 java -jar -Xms1008M -Xmx2048M spigot-1.17.1.jar nogui
